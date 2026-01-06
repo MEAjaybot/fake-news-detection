@@ -1,0 +1,12 @@
+pandas
+numpy
+beautifulsoup4
+nltk
+contractions
+scikit-learn
+joblib
+gensim
+torch
+streamlit
+transformers
+torchvision
